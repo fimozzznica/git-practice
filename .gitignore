@@ -1,0 +1,17 @@
+[Bb]uilds/
+Assets/AssetStoreTools*
+
+[Dd]ebug/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprofiles
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.bak
+*.unitypackage
