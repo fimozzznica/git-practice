@@ -15,4 +15,6 @@ Assets/AssetStoreTools*
 *.pdb
 *.bak
 *.unitypackage
-Library/
+
+[Ll]ibrary/
+[Tt]emp/
